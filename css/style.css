@@ -1866,6 +1866,10 @@ a:hover {
   .about-first-text {
     left: 20%;
   }
+  .contact-background{
+    display: block;
+    height: 420px;
+}
 }
 
 .webp .footer{ background-image: url(../img/footer-backgr.webp); }
